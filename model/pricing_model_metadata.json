@@ -1,0 +1,16 @@
+{
+    "model_type": "Logistic Regression",
+    "objective": "Estimate churn delta from pricing decisions",
+    "target": "churned",
+    "features": [
+        "trial_group_Trial",
+        "billing_group_Monthly",
+        "plan_group_Enterprise",
+        "plan_group_Pro",
+        "seat_bucket_Mid",
+        "seat_bucket_Small",
+        "seat_bucket_Very Small"
+    ],
+    "baseline_churn_rate": 70.56,
+    "notes": "Interpretable pricing impact model, not predictive churn engine"
+}

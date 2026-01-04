@@ -1,0 +1,3 @@
+,trial_group,subs,avg_churn_rate,avg_upgrade_rate,avg_downgrade_rate,median_subscription_age,confidence_level,performance_label,guardrail_status,recommended_action
+0,Non-Trial,4222,70.82,30.802675585284277,12.94314381270903,469.0,High,Value-Misaligned,Fail,Do Not Apply
+1,Trial,778,69.15,31.970260223048324,14.49814126394052,466.0,High,Neutral / Mixed,Pass,Limit / Monitor

@@ -1,0 +1,3 @@
+,billing_group,subs,avg_churn_rate,avg_upgrade_rate,avg_downgrade_rate,median_subscription_age,confidence_level,performance_label,guardrail_status,recommended_action
+0,Annual,2461,70.5,31.52737752161383,13.141210374639769,469.0,High,Value-Misaligned,Fail,Do Not Apply
+1,Monthly,2539,70.62,30.451756832124932,13.218070273284996,468.0,High,Value-Misaligned,Fail,Do Not Apply

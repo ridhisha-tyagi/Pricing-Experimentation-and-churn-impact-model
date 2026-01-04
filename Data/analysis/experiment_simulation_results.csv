@@ -1,0 +1,11 @@
+,experiment_name,segment_key,variant,subs,baseline_churn_rate,baseline_upgrade_rate,baseline_downgrade_rate,performance_label,expected_churn_rate,expected_upgrade_rate,expected_downgrade_rate,guardrail_status,net_effect_label,recommended_action
+0,Plan x Seat Expansion,Basic | Large,Control,228,64.91,25.0,18.243243243243242,High Stability,64.91,25.0,18.243243243243242,Pass,Neutral / Risky,Do Not Run
+1,Plan x Seat Expansion,Basic | Large,Variant,228,64.91,25.0,18.243243243243242,High Stability,64.91,27.5,18.243243243243242,Pass,Positive,Proceed to Live Test
+2,Plan x Seat Expansion,Enterprise | Large,Control,245,68.57,26.190476190476193,13.690476190476192,Neutral / Mixed,68.57,26.190476190476193,13.690476190476192,Pass,Neutral / Risky,Do Not Run
+3,Plan x Seat Expansion,Enterprise | Large,Variant,245,68.57,26.190476190476193,13.690476190476192,Neutral / Mixed,68.57,29.190476190476193,13.690476190476192,Pass,Positive,Proceed to Live Test
+4,Plan x Seat Expansion,Enterprise | Small,Control,642,69.94,33.4075723830735,11.358574610244988,Neutral / Mixed,69.94,33.4075723830735,11.358574610244988,Pass,Neutral / Risky,Do Not Run
+5,Plan x Seat Expansion,Enterprise | Small,Variant,642,69.94,33.4075723830735,11.358574610244988,Neutral / Mixed,69.94,36.4075723830735,11.358574610244988,Pass,Positive,Proceed to Live Test
+6,Plan x Seat Expansion,Enterprise | Very Small,Control,111,68.47,26.31578947368421,18.421052631578945,Neutral / Mixed,68.47,26.31578947368421,18.421052631578945,Pass,Neutral / Risky,Do Not Run
+7,Plan x Seat Expansion,Enterprise | Very Small,Variant,111,68.47,26.31578947368421,18.421052631578945,Neutral / Mixed,68.47,29.31578947368421,18.421052631578945,Pass,Positive,Proceed to Live Test
+8,Plan x Seat Expansion,Pro | Large,Control,258,68.6,30.508474576271187,13.559322033898304,Neutral / Mixed,68.6,30.508474576271187,13.559322033898304,Pass,Neutral / Risky,Do Not Run
+9,Plan x Seat Expansion,Pro | Large,Variant,258,68.6,30.508474576271187,13.559322033898304,Neutral / Mixed,68.6,33.50847457627118,13.559322033898304,Pass,Positive,Proceed to Live Test

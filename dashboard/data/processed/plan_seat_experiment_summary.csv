@@ -1,0 +1,13 @@
+,plan_group,seat_bucket,subs,median_seats,avg_churn_rate,avg_upgrade_rate,avg_downgrade_rate,median_subscription_age,confidence_level,performance_label,guardrail_status,recommended_action
+0,Basic,Large,228,66.5,64.91,25.0,18.243243243243242,457.5,High,High Stability,Pass,Rollout
+1,Basic,Mid,711,31.0,72.01,33.7890625,10.7421875,471.0,High,Value-Misaligned,Fail,Do Not Apply
+2,Basic,Small,561,13.0,70.05,32.06106870229007,13.740458015267176,467.0,High,Value-Misaligned,Fail,Do Not Apply
+3,Basic,Very Small,102,4.0,71.57,31.506849315068493,24.65753424657534,489.5,Medium,Value-Misaligned,Fail,Do Not Apply
+4,Enterprise,Large,245,69.0,68.57,26.190476190476193,13.690476190476192,446.0,High,Neutral / Mixed,Pass,Limit / Monitor
+5,Enterprise,Mid,725,31.0,72.28,30.725190839694655,13.16793893129771,465.0,High,Value-Misaligned,Fail,Do Not Apply
+6,Enterprise,Small,642,14.0,69.94,33.4075723830735,11.358574610244988,472.5,High,Neutral / Mixed,Pass,Limit / Monitor
+7,Enterprise,Very Small,111,3.0,68.47,26.31578947368421,18.421052631578945,446.0,Medium,Neutral / Mixed,Pass,Limit / Monitor
+8,Pro,Large,258,68.0,68.6,30.508474576271187,13.559322033898304,459.5,High,Neutral / Mixed,Pass,Limit / Monitor
+9,Pro,Mid,721,31.0,71.43,27.184466019417474,12.62135922330097,477.0,High,Value-Misaligned,Fail,Do Not Apply
+10,Pro,Small,599,13.0,70.12,34.285714285714285,11.428571428571429,466.0,High,Value-Misaligned,Fail,Do Not Apply
+11,Pro,Very Small,97,4.0,75.26,28.767123287671232,23.28767123287671,459.0,Medium,Value-Misaligned,Fail,Do Not Apply
