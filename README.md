@@ -84,10 +84,12 @@ Built to answer **“Should we do this?”**, not just **“What happened?”**
 
 ## 📸 Screenshots
 
-| Pricing System | Experimentation |
-|---------------|-----------------|
-| ![](screenshots/home.png) |  ![](screenshots/pricing_system_01.png) | ![](screenshots/pricing_system_02.png) | ![](screenshots/pricing_system_03.png) |![](screenshots/pricing_experiments_01.png) | ![](screenshots/pricing_experiments_02.png) |
-
+| Pricing System |
+|---------------|
+| ![](screenshots/home.png) |  ![](screenshots/pricing_system_01.png) | ![](screenshots/pricing_system_02.png) | ![](screenshots/pricing_system_03.png) |
+| Experimentation |
+|-----------------|
+|![](screenshots/pricing_experiments_01.png) | ![](screenshots/pricing_experiments_02.png) |
 | Churn Impact Model |
 |-------------------|
 | ![](screenshots/churn_impact_model_01.png) | ![](screenshots/churn_impact_model_02.png) |
