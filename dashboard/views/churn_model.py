@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import streamlit.components.v1 as components
-
+from utils.data_loader import load_data
 
 # -----------------------------
 # 🔮 Pricing → Churn Impact Model
@@ -124,7 +124,8 @@ def render():
     # -----------------------------
     # 📂 LOAD DATA
     # -----------------------------
-    df = pd.read_csv("data/processed/pricing_churn_impact.csv")
+
+    df = load_data("processed", "pricing_churn_impact.csv")
     df = df.sort_values("churn_delta_pct", ascending=False)
 
     top_risk = df.iloc[0]
