@@ -124,7 +124,7 @@ def render():
     # -----------------------------
     # 📂 LOAD DATA
     # -----------------------------
-    df = pd.read_csv("Data/processed/pricing_churn_impact.csv")
+    df = pd.read_csv("data/processed/pricing_churn_impact.csv")
     df = df.sort_values("churn_delta_pct", ascending=False)
 
     top_risk = df.iloc[0]
